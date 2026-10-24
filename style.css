@@ -12,3 +12,9 @@ a:link {
 a:visited {
   color: #fc8181;
 }
+div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
